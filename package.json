@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "knex": "^1.0.3",
+    "node": "^17.5.0",
+    "nodejs": "^0.0.0",
+    "sqlite3": "^5.0.2"
+  },
+  "name": "back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "Willian C Santos",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
